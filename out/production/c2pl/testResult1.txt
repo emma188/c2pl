@@ -1,0 +1,6 @@
+site 1 write a = 1
+site 1 read and write b = 2
+site 1 write c = 3
+site 2 read a = 1
+site 2 read b = 2
+site 3 read c = 3

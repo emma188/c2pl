@@ -1,0 +1,4 @@
+Transaction
+w(b,2)
+r(b)w(c,3)
+commit

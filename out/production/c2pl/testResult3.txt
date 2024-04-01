@@ -1,0 +1,4 @@
+site 1 read a = 0
+site 2 write a = 1
+site 3 write a = 2
+site 3 read a = 2

@@ -1,0 +1,14 @@
+Transaction
+r(x)
+w(x,1)
+r(y)
+w(y,1)
+w(y,2)
+commit
+Transaction
+r(x)
+w(x,1)
+r(y)
+w(y,1)
+w(y,2)
+commit
